@@ -1,0 +1,9 @@
+*.pyc
+.ropeproject
+.*.swp
+*.shp
+*.shx
+*.prj
+*.dbf
+*.cpg
+ve/*
